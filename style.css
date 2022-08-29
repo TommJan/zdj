@@ -211,7 +211,7 @@ img {
 @media(max-width:767px){
     .photo{        
         width: 95%;
-        padding: 1em 0 0 0;
+        padding: 1em 0 .5em 0;
     }
     .top-title {        
         margin: .25rem 0 0 0;
